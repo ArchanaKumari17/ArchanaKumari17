@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArchanaKumari17
-Data science and machine learning
+I am intrested in Data science and machine learning
 archanaks17@gmail.com
 
 
