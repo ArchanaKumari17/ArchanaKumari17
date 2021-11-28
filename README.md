@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchanaKumari17
-- 👀 I’m interested in Data science and machine learning
-- 💞️ I’m looking to collaborate on Data science and machine learning
+Data science and machine learning
+archanaks17@gmail.com
 
 
 <!---
